@@ -7,10 +7,9 @@ I'm a DevOps Engineer, Technical Writer, and Tech Tutor currently working as a D
 **Here's a quick summary about me**:
 
 - 😊 Pronouns: She/her
-- 💡 Fun fact: I'm currently studying at AltSchool Africa [School of Software Engineering](https://altschoolafrica.com/schools/engineering) Class of 2024.
-- 🌱 I’m currently learning JavaScript, Reactjs, and Python.
-- 😊 I’m seeking help with open source projects, hackathons, internships, and entry-level opportunities.
-- 💼 Job interests: DevOps Engineer, Technical Writer, or Cloud Engineer (Entry or Junior level).
+- 🌱 I’m currently learning Kubernetes.
+- 😊 I’m seeking open-source projects and hackathons to contribute.
+- 💼 Job interests: DevOps Engineer, Technical Writer, or AWS Cloud Engineer.
 - 📫 You can [view my resume](#) and contact me by emailing mailtojoyjoel@gmail.com.
 
 ---
