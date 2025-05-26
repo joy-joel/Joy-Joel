@@ -14,5 +14,5 @@ I'm a DevOps Engineer, Technical Writer, and Tech Tutor currently working as a D
 
 ---
 
-| <img align="center" src="https://github-readme-stats.vercel.app/api?username=Joy-Joel&show_icons=true&include_all_commits=true&hide_border=true" alt="Joy Joel's GitHub stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Joy-Joel&langs_count=8&layout=compact&hide_border=true" alt="Joy Joel's GitHub stats" /> |
+| <img align="center" src="https://github-readme-stats.vercel.app/api?username=joy-joel&show_icons=true&include_all_commits=true&hide_border=true" alt="Joy Joel's GitHub stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joy-joel&langs_count=8&layout=compact&hide_border=true" alt="Joy Joel's GitHub stats" /> |
 | ------------- | ------------- |
