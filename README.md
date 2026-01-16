@@ -7,7 +7,7 @@ I'm a DevOps Engineer, Technical Writer, and Tech Tutor currently working as a D
 **Here's a quick summary about me**:
 
 - 😊 Pronouns: She/her
-- 🌱 I’m currently learning Kubernetes.
+- 🌱 I work with Docker, bash scripts, Docker Swarm and Kubernetes.
 - 😊 I’m seeking open-source projects and hackathons to contribute.
 - 💼 Job interests: DevOps Engineer, Technical Writer, or AWS Cloud Engineer.
 - 📫 You can contact me by emailing mailtojoyjoel@gmail.com.
